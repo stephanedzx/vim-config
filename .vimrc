@@ -1,6 +1,6 @@
 " Personal vimrc.
 " For a minimal version, remove :
-" - Vundle and the pluginq (everything above line 27)
+" - Vundle and the plugins (everything above line 27)
 " - Pylint related line (line 54)
 "
 " Last modified on May 10, 2020.
